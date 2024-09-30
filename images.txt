@@ -1,1 +1,1 @@
-gitlab/gitlab-runner
+docker:20.10.12-dind
