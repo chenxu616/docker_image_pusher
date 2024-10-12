@@ -5,3 +5,4 @@ maven:3.8.4-jdk-8
 docker:27.3.1
 node:20.18.0
 node:latest
+node:16.20.2
