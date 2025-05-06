@@ -1,1 +1,1 @@
-rockchin/langbot:latest
+ghcr.io/drawdb-io/drawdb:v1.3.0
