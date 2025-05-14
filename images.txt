@@ -1,1 +1,1 @@
-ghcr.io/drawdb-io/drawdb:v1.3.0
+billryan/gitbook
