@@ -1,1 +1,2 @@
-fellah/gitbook:3.2.1
+mysql:8.0.42
+redis:latest
