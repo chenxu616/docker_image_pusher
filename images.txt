@@ -1,2 +1,1 @@
-mysql:8.0.42
-redis:latest
+redis:6.0.20
