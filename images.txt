@@ -1,1 +1,1 @@
-oceanbase/oceanbase-ce:vector
+ghcr.io/open-webui/open-webui:main
