@@ -1,1 +1,2 @@
-gcpaas/dataroom:2.0.2
+nvidia/cuda:12.4.1-base-ubuntu22.04
+ollama/ollama:0.11.4
