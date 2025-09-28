@@ -1,1 +1,1 @@
-node:18.20.8
+ollama/ollama:0.12.3
