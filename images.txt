@@ -1,12 +1,15 @@
-langgenius/dify-api:1.13.0
-langgenius/dify-web:1.13.0
-langgenius/dify-sandbox:0.2.12
+langgenius/dify-api:1.13.3
+langgenius/dify-web:1.13.3
+langgenius/dify-sandbox:0.2.14
 langgenius/dify-plugin-daemon:0.5.3-local
 ubuntu/squid:latest
 postgres:15-alpine
 redis:6-alpine
 nginx:latest
 semitechnologies/weaviate:1.27.0
+busybox:latest
+
+
 
 
 
